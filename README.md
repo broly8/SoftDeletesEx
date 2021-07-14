@@ -54,4 +54,4 @@ use App\Models\SoftDeletesEx as SoftDeletes;
 ```
 
 # Link
-My blog post: http://blog.dreamlikes.cn/archives/892
+My blog post: https://blog.dreamlikes.cn/2017/06/07/laravel5-extend-softdeletes/
